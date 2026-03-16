@@ -1,0 +1,11 @@
+.container{
+    width: 500px;
+    height: 650px;
+    border: 10px solid aliceblue;
+    padding: 50px;
+    border-radius: 3%;
+    margin: "50px auto";
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}
